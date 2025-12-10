@@ -1,7 +1,5 @@
 # exploRMS
 
-# 🧠 RMS Norm Visualizer
-
 An interactive React app for exploring how different initializations and matrix dimensions affect activation norms in a basic matrix multiplication.
 
 ## Installation
@@ -23,6 +21,6 @@ An interactive React app for exploring how different initializations and matrix 
     npm start
     # or
     yarn start
-    
+
 4. Open the app in your browser (usually at):
     http://localhost:3000
